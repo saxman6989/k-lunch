@@ -15,7 +15,7 @@
     "request": "^2.88.0"
   },
   "author": "saxman6989",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/saxman6989/k-lunch/issues"
   },
